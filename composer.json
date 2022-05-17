@@ -1,0 +1,16 @@
+{
+    "name": "shobha/contact",
+    "description": "Sending email to admin",
+    "autoload": {
+        "psr-4": {
+            "Shobha\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shivwp",
+            "email": "wpexpert0141@gmail.com"
+        }
+    ],
+    "require": {}
+}
