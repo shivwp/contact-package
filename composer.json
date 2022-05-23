@@ -12,5 +12,13 @@
             "email": "wpexpert0141@gmail.com"
         }
     ],
+     "extra": {
+        "laravel": {
+            "providers": [
+                "Shobha\\Contact\\ContactServiceProvider"
+            ]
+           
+        }
+    },
     "require": {}
 }
